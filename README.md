@@ -9,7 +9,7 @@
     -Guachamín Daniel
     -León Jeremy
     -Yazán Cindy
-    -Valdieso Gabriel
+    -Valdivieso Gabriel
     
 # 1. Herramientas de Desarrollo
   **WEBSTORM**
